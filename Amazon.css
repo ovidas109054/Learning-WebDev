@@ -1,0 +1,11 @@
+.navbar{
+    background-color:rgb(26, 9, 21);
+    height: 50px;
+    margin: 10px;
+    align-items: center;
+}
+.ancor{
+    color:white;
+    text-decoration:none;
+    margin-left: 10px;
+}
