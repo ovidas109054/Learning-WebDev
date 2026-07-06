@@ -1,3 +1,4 @@
+
 #navbar{
     background-color:black;
     align-items: center;
@@ -10,4 +11,50 @@
     font-size: 20px;
     margin-right:180px;
     margin-left:20px;
+}
+#tra{
+    border: 2px solid rgb(209, 107, 39);
+    background-color: black;
+    height: 650px;
+    width: 400px;
+    border-radius: 30%;
+    align-items:center;
+}
+.cercal1{
+    color:aliceblue;
+    background-color: crimson;
+    height:150px;
+    width:150px;
+    border-radius:50%;
+    margin-left:130px;
+    margin-top:50px;
+    display: flex;
+    justify-content: center; /* Horizontal center */
+    align-items: center
+}
+.cercal2{
+    color:rgb(59, 126, 185);
+    background-color: rgb(255, 252, 58);
+    height:150px;
+    width:150px;
+    border-radius:50%;
+    margin-left:130px;
+    margin-top:50px;
+    display: flex;
+    justify-content: center; /* Horizontal center */
+    align-items: center
+  
+}
+.cercal3{
+    color:aliceblue;
+    background-color: rgb(16, 233, 34);
+    height:150px;
+    width:150px;
+    border-radius:50%;
+    margin-left:130px;
+    margin-top:50px;
+    display: flex;
+    justify-content: center; /* Horizontal center */
+    align-items: center;
+   
 }
