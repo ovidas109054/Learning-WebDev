@@ -4,6 +4,7 @@
     align-items: center;
     height: 50px;
     padding-top:18px;
+  
 }
 .navancor{
     color:aliceblue;
@@ -11,6 +12,11 @@
     font-size: 20px;
     margin-right:180px;
     margin-left:20px;
+    
+}
+.navancor:hover{
+  
+    color:rgb(50, 187, 241);
 }
 #tra{
     border: 2px solid rgb(209, 107, 39);
@@ -31,6 +37,10 @@
     display: flex;
     justify-content: center; /* Horizontal center */
     align-items: center
+
+}
+.cercal1:hover{
+    background-color: antiquewhite;
 }
 .cercal2{
     color:rgb(59, 126, 185);
@@ -45,6 +55,9 @@
     align-items: center
   
 }
+.cercal2:hover{
+    background-color: rgb(231, 235, 22);
+}
 .cercal3{
     color:aliceblue;
     background-color: rgb(16, 233, 34);
@@ -57,4 +70,7 @@
     justify-content: center; /* Horizontal center */
     align-items: center;
    
+}
+.cercal3:hover{
+    background-color: rgb(241, 239, 236);
 }
